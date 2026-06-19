@@ -45,8 +45,8 @@
 * Modelo de caja express: Bordes (`border`), márgenes (`margin`) y cómo centrar un contenedor bloque con `margin: 0 auto;`.
 * Alinear texto con `text-align: center;`.
 * **Demostración:** Aplicar estilos básicos a los elementos creados en la Clase 3.
-* **Enlaces:** [HTML/CSS Playground (JSFiddle)](https://jsfiddle.net/) | [Material de la Clase](starter-files/lesson-5-starter.md) ([Completado](completed-examples/lesson-5-completed.md), [Scripts](scripts/lesson-5-scripts.md))
-* **Clase:** [Clase n°5]()
+* **Enlaces:** [HTML/CSS Playground (JSFiddle)](https://jsfiddle.net/vbshpmLd/5/) | [Material de la Clase](starter-files/lesson-5-starter.md) ([Completado](completed-examples/lesson-5-completed.md), [Scripts](scripts/lesson-5-scripts.md))
+* **Clase:** [Clase n°5](https://youtu.be/0Z6JdahAulw)
 
 ## Clase 6: Creación de una página web básica - HTML (10 minutos)
 **Qué abarca:**
