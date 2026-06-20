@@ -43,9 +43,9 @@ Este curso de 1 hora y 15 minutos introduce a estudiantes de secundaria a la cre
 
 ### Lección 5: Estilo simple (10 minutos)
 * **Descripción**: Manipula colores de texto y fondo, fuentes y el modelo de caja express para ordenar tus contenidos.
-* **Enlace**: [Ver la lección](https://youtu.be/placeholder)
+* **Enlace**: [Ver la lección](https://youtu.be/0Z6JdahAulw)
 * **Consejos clave**: Utiliza `color`, `background-color`, `font-family` y `margin: 0 auto` para centrar contenedores.
-* **Práctica**: [Clic para programar](https://jsfiddle.net/)
+* **Práctica**: [Clic para programar](https://jsfiddle.net/vbshpmLd/5/)
 * 💻 **¡No necesitas registrarte!**
 
 ### Lección 6: Creación de una página web básica - HTML (10 minutos)
