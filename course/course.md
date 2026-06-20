@@ -54,8 +54,8 @@
 * Maquetación en vivo: Se crea la estructura de la tarjeta usando un contenedor principal `<div>`.
 * Contenido: Foto de perfil, nombre (`<h1>`), biografía corta (`<p>`) y una lista de habilidades o intereses (`<ul>`).
 * **Meta:** Tener el HTML limpio, bien anidado y estructurado semánticamente.
-* **Enlaces:** [HTML/CSS Playground (JSFiddle)](https://jsfiddle.net/) | [Material de la Clase](starter-files/lesson-6-starter.md) ([Completado](completed-examples/lesson-6-completed.md), [Scripts](scripts/lesson-6-scripts.md))
-* **Clase:** [Clase n°6]()
+* **Enlaces:** [HTML/CSS Playground (JSFiddle)](https://jsfiddle.net/okyb0sjm/60/) | [Material de la Clase](starter-files/lesson-6-starter.md) ([Completado](completed-examples/lesson-6-completed.md), [Scripts](scripts/lesson-6-scripts.md))
+* **Clase:** [Clase n°6](https://www.youtube.com/watch?v=PX7K03Wad6k)
 
 ## Clase 7: Creación de una página web básica - CSS (10 minutos)
 **Qué abarca:**
@@ -63,8 +63,8 @@
 * Darle dimensiones a la tarjeta (ancho máximo) y centrarla en la pantalla.
 * Añadir color de fondo general, bordes redondeados (`border-radius`) a la foto y a la tarjeta, y espaciado interno (`padding`) para que el texto respire.
 * **Meta:** Transformar la estructura de la clase 6 en una interfaz atractiva.
-* **Enlaces:** [HTML/CSS Playground (JSFiddle)](https://jsfiddle.net/) | [Material de la Clase](starter-files/lesson-7-starter.md) ([Completado](completed-examples/lesson-7-completed.md), [Scripts](scripts/lesson-7-scripts.md))
-* **Clase:** [Clase n°7]()
+* **Enlaces:** [HTML/CSS Playground (JSFiddle)](https://jsfiddle.net/0ykbnmts/2/) | [Material de la Clase](starter-files/lesson-7-starter.md) ([Completado](completed-examples/lesson-7-completed.md), [Scripts](scripts/lesson-7-scripts.md))
+* **Clase:** [Clase n°7](https://youtu.be/K2j5jzsy1EY)
 
 ## Clase 8: Recomendaciones y errores comunes para principiantes (6 minutos)
 **Qué abarca:**

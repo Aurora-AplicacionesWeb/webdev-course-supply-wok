@@ -50,16 +50,16 @@ Este curso de 1 hora y 15 minutos introduce a estudiantes de secundaria a la cre
 
 ### Lección 6: Creación de una página web básica - HTML (10 minutos)
 * **Descripción**: Comienza el proyecto final maquetando la estructura de tu tarjeta de presentación (Profile Card).
-* **Enlace**: [Ver la lección](https://youtu.be/placeholder)
+* **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=PX7K03Wad6k)
 * **Consejos clave**: Mantén el HTML bien anidado, estructurado semánticamente y limpio.
-* **Práctica**: [Crea tu Perfil (HTML)](https://jsfiddle.net/)
+* **Práctica**: [Crea tu Profile Card (HTML)](https://jsfiddle.net/okyb0sjm/60/)
 * 🚀 **¡Comienza al instante!**
 
 ### Lección 7: Creación de una página web básica - CSS (10 minutos)
 * **Descripción**: Estiliza la tarjeta de presentación aplicando colores, bordes redondeados y márgenes internos.
-* **Enlace**: [Ver la lección](https://youtu.be/placeholder)
+* **Enlace**: [Ver la lección](https://youtu.be/K2j5jzsy1EY)
 * **Consejos clave**: Usa `border-radius`, `padding`, y limita el ancho máximo del contenedor.
-* **Práctica**: [Crea tu Perfil (CSS)](https://jsfiddle.net/)
+* **Práctica**: [Crea tu Profile Card (CSS)](https://jsfiddle.net/0ykbnmts/2/)
 * 💻 **¡No necesitas registrarte!**
 
 ### Lección 8: Recomendaciones y errores comunes (6 minutos)
