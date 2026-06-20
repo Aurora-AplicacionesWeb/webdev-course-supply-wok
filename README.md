@@ -66,7 +66,6 @@ Este curso de 1 hora y 15 minutos introduce a estudiantes de secundaria a la cre
 * **Descripción**: Descubre las mejores prácticas de indentación, nombres de archivos en minúscula y los errores más comunes de sintaxis.
 * **Enlace**: [Ver Lección](https://youtu.be/cbGhBA6oFV0)
 * **Consejos Clave**: Valida siempre las etiquetas de cierre, vinculación de archivos y la Documentación Web de MDN.
-* 🚀 **¡Guarda y comparte!**
 
 ---
 
