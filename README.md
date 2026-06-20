@@ -15,14 +15,14 @@ Este curso de 1 hora y 15 minutos introduce a estudiantes de secundaria a la cre
 
 ### Lección 1: Introducción al desarrollo web (7 minutos)
 * **Descripción**: Aprende de qué están hechos los sitios web, el modelo cliente-servidor y la diferencia entre frontend y backend.
-* **Enlace**: [Ver la lección](https://youtu.be/placeholder)
+* **Enlace**: [Ver la lección](https://youtu.be/5SF51h6ia1o)
 * **Consejos clave**: El código es solo texto interpretado por el navegador.
 * **Empieza a programar**: [Open JSFiddle](https://jsfiddle.net/)
 * 💻 **¡No necesitas registrarte!**
 
 ### Lección 2: Estructura HTML básica (10 minutos)
 * **Descripción**: Conoce qué es una etiqueta, sus atributos y el esqueleto obligatorio de una página web.
-* **Enlace**: [Ver la lección](https://youtu.be/placeholder)
+* **Enlace**: [Ver la lección](https://youtu.be/g9EAqd5E7tA)
 * **Consejos clave**: Toda página requiere `<!DOCTYPE html>`, `<html>`, `<head>`, y `<body>`.
 * **Práctica**: [Clic para programar](https://jsfiddle.net/)
 * 🚀 **¡Comienza al instante!**
@@ -64,10 +64,8 @@ Este curso de 1 hora y 15 minutos introduce a estudiantes de secundaria a la cre
 
 ### Lección 8: Recomendaciones y errores comunes (6 minutos)
 * **Descripción**: Descubre las mejores prácticas de indentación, nombres de archivos en minúscula y los errores más comunes de sintaxis.
-* **Enlace**: [Ver Lección](https://youtu.be/placeholder)
+* **Enlace**: [Ver Lección](https://youtu.be/cbGhBA6oFV0)
 * **Consejos Clave**: Valida siempre las etiquetas de cierre, vinculación de archivos y la Documentación Web de MDN.
-* **Comparte tu Trabajo**: [Envía tu Creación](https://forms.gle/your-form)
-* 🚀 **¡Guarda y comparte!**
 
 ---
 
@@ -84,7 +82,7 @@ Este curso de 1 hora y 15 minutos introduce a estudiantes de secundaria a la cre
 | 5 | Colores y modelo de caja express | [JSFiddle](https://jsfiddle.net/) |
 | 6 | Maquetación HTML de tarjeta | [JSFiddle](https://jsfiddle.net/) |
 | 7 | Estilización CSS de tarjeta | [JSFiddle](https://jsfiddle.net/) |
-| 8 | Depuración y buenas prácticas | [JSFiddle](https://jsfiddle.net/) |
+| 8 | Depuración y buenas prácticas | [PPT](https://upcedupe-my.sharepoint.com/:p:/g/personal/u202312566_upc_edu_pe/IQD6oIGcPkyTSKvCmTsP9v1xAdodIdTi6nT5RsUu9koHj4I?e=MZTLnT) |
 
 **¡Gracias por completar el curso!**
 
@@ -103,4 +101,5 @@ NRC 12206
 * Juan Wang
 * Marcelo Cuadros
 * Zayd Ayasta
-* Mathias Sanchez
+* Mathias Sánchez
+* Milenko Cayanchi

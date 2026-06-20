@@ -8,8 +8,8 @@
 * Diferencia rápida entre frontend (lo visual) y backend (los datos).
 * Las herramientas: El navegador y un editor de texto (mención rápida a VS Code).
 * **Meta:** Que entiendan que el código es solo texto interpretado por el navegador.
-* **Enlaces:** [HTML/CSS Playground (JSFiddle)](https://jsfiddle.net/) | [Material de la Clase](starter-files/lesson-1-starter.md) ([Completado](completed-examples/lesson-1-completed.md), [Scripts](scripts/lesson-1-scripts.md))
-* **Clase:** [Clase n°1]()
+* **Enlaces:** [HTML/CSS Playground (JSFiddle)](https://jsfiddle.net/) | [Material de la Clase](starter-files/lesson-1-starter.md) ([Completado](completed-examples/lesson-1-completed.md))
+* **Clase:** [Clase n°1](https://youtu.be/5SF51h6ia1o)
 
 ## Clase 2: Estructura HTML básica (10 minutos)
 **Qué abarca:**
@@ -18,7 +18,7 @@
 * El esqueleto obligatorio de toda página web: `<!DOCTYPE html>`, `<html>`, `<head>` (metadatos) y `<body>` (lo visible).
 * **Demostración:** Escribir el esqueleto desde cero en vivo.
 * **Enlaces:** [HTML/CSS Playground (JSFiddle)](https://jsfiddle.net/) | [Material de la Clase](starter-files/lesson-2-starter.md) ([Completado](completed-examples/lesson-2-completed.md), [Scripts](scripts/lesson-2-scripts.md))
-* **Clase:** [Clase n°2]()
+* **Clase:** [Clase n°2](https://youtu.be/g9EAqd5E7tA)
 
 ## Clase 3: Elementos HTML comunes (12 minutos)
 **Qué abarca:**
@@ -71,8 +71,8 @@
 * **Errores:** Olvidar cerrar etiquetas, fallar en la ruta de las imágenes, escribir CSS sin vincular el archivo.
 * **Buenas prácticas:** Escribir siempre en minúsculas (archivos y etiquetas), indentar el código para que sea legible, usar nombres descriptivos.
 * **Cierre:** Dónde seguir aprendiendo (MDN Web Docs) y motivación final.
-* **Enlaces:** [HTML/CSS Playground (JSFiddle)](https://jsfiddle.net/) | [Material de la Clase](starter-files/lesson-8-starter.md) ([Completado](completed-examples/lesson-8-completed.md), [Scripts](scripts/lesson-8-scripts.md))
-* **Clase:** [Clase n°8]()
+* **Enlaces:** [PPT](https://upcedupe-my.sharepoint.com/:p:/g/personal/u202312566_upc_edu_pe/IQD6oIGcPkyTSKvCmTsP9v1xAdodIdTi6nT5RsUu9koHj4I?e=MZTLnT) | [Material de la Clase](starter-files/lesson-8-starter.md) ([Completado](completed-examples/lesson-8-completed.md), [Scripts](scripts/lesson-8-scripts.md))
+* **Clase:** [Clase n°8](https://www.youtube.com/watch?v=cbGhBA6oFV0)
 
 ---
 **Total de tiempo estimado: 75 minutos (1 hora y 15 minutos).**
