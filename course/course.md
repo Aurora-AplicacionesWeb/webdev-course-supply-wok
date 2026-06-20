@@ -8,8 +8,8 @@
 * Diferencia rápida entre frontend (lo visual) y backend (los datos).
 * Las herramientas: El navegador y un editor de texto (mención rápida a VS Code).
 * **Meta:** Que entiendan que el código es solo texto interpretado por el navegador.
-* **Enlaces:** [HTML/CSS Playground (JSFiddle)](https://jsfiddle.net/) | [Material de la Clase](starter-files/lesson-1-starter.md) ([Completado](completed-examples/lesson-1-completed.md), [Scripts](scripts/lesson-1-scripts.md))
-* **Clase:** [Clase n°1]()
+* **Enlaces:** [HTML/CSS Playground (JSFiddle)](https://jsfiddle.net/) | [Material de la Clase](starter-files/lesson-1-starter.md) ([Completado](completed-examples/lesson-1-completed.md))
+* **Clase:** [Clase n°1](https://youtu.be/5SF51h6ia1o)
 
 ## Clase 2: Estructura HTML básica (10 minutos)
 **Qué abarca:**
@@ -18,7 +18,7 @@
 * El esqueleto obligatorio de toda página web: `<!DOCTYPE html>`, `<html>`, `<head>` (metadatos) y `<body>` (lo visible).
 * **Demostración:** Escribir el esqueleto desde cero en vivo.
 * **Enlaces:** [HTML/CSS Playground (JSFiddle)](https://jsfiddle.net/) | [Material de la Clase](starter-files/lesson-2-starter.md) ([Completado](completed-examples/lesson-2-completed.md), [Scripts](scripts/lesson-2-scripts.md))
-* **Clase:** [Clase n°2]()
+* **Clase:** [Clase n°2](https://youtu.be/g9EAqd5E7tA)
 
 ## Clase 3: Elementos HTML comunes (12 minutos)
 **Qué abarca:**

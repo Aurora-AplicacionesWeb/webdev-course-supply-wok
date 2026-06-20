@@ -15,14 +15,14 @@ Este curso de 1 hora y 15 minutos introduce a estudiantes de secundaria a la cre
 
 ### Lección 1: Introducción al desarrollo web (7 minutos)
 * **Descripción**: Aprende de qué están hechos los sitios web, el modelo cliente-servidor y la diferencia entre frontend y backend.
-* **Enlace**: [Ver la lección](https://youtu.be/placeholder)
+* **Enlace**: [Ver la lección](https://youtu.be/5SF51h6ia1o)
 * **Consejos clave**: El código es solo texto interpretado por el navegador.
 * **Empieza a programar**: [Open JSFiddle](https://jsfiddle.net/)
 * 💻 **¡No necesitas registrarte!**
 
 ### Lección 2: Estructura HTML básica (10 minutos)
 * **Descripción**: Conoce qué es una etiqueta, sus atributos y el esqueleto obligatorio de una página web.
-* **Enlace**: [Ver la lección](https://youtu.be/placeholder)
+* **Enlace**: [Ver la lección](https://youtu.be/g9EAqd5E7tA)
 * **Consejos clave**: Toda página requiere `<!DOCTYPE html>`, `<html>`, `<head>`, y `<body>`.
 * **Práctica**: [Clic para programar](https://jsfiddle.net/)
 * 🚀 **¡Comienza al instante!**
@@ -103,5 +103,5 @@ NRC 12206
 * Juan Wang
 * Marcelo Cuadros
 * Zayd Ayasta
-* Mathias Sanchez
+* Mathias Sánchez
 * Milenko Cayanchi
