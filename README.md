@@ -64,9 +64,8 @@ Este curso de 1 hora y 15 minutos introduce a estudiantes de secundaria a la cre
 
 ### Lección 8: Recomendaciones y errores comunes (6 minutos)
 * **Descripción**: Descubre las mejores prácticas de indentación, nombres de archivos en minúscula y los errores más comunes de sintaxis.
-* **Enlace**: [Ver Lección](https://youtu.be/placeholder)
+* **Enlace**: [Ver Lección](https://youtu.be/cbGhBA6oFV0)
 * **Consejos Clave**: Valida siempre las etiquetas de cierre, vinculación de archivos y la Documentación Web de MDN.
-* **Comparte tu Trabajo**: [Envía tu Creación](https://forms.gle/your-form)
 * 🚀 **¡Guarda y comparte!**
 
 ---
@@ -84,7 +83,7 @@ Este curso de 1 hora y 15 minutos introduce a estudiantes de secundaria a la cre
 | 5 | Colores y modelo de caja express | [JSFiddle](https://jsfiddle.net/) |
 | 6 | Maquetación HTML de tarjeta | [JSFiddle](https://jsfiddle.net/) |
 | 7 | Estilización CSS de tarjeta | [JSFiddle](https://jsfiddle.net/) |
-| 8 | Depuración y buenas prácticas | [JSFiddle](https://jsfiddle.net/) |
+| 8 | Depuración y buenas prácticas | [PPT](https://upcedupe-my.sharepoint.com/:p:/g/personal/u202312566_upc_edu_pe/IQD6oIGcPkyTSKvCmTsP9v1xAdodIdTi6nT5RsUu9koHj4I?e=MZTLnT) |
 
 **¡Gracias por completar el curso!**
 
