@@ -1,17 +1,17 @@
-# Guión de Clase 4 - Introducción a CSS (10 minutos)
+# Guión de Clase 4 - Introducción a CSS
 
 Este documento sirve como guía/guión para el profesor durante la demostración en vivo de la clase 4.
 
 ## Minuto a Minuto
 
-### 1. ¿Qué es CSS? (2 minutos)
+### 1. ¿Qué es CSS?
 * **Objetivo:** Explicar el concepto de separación de responsabilidades.
 * **Concepto:**
   * HTML es el esqueleto de la casa (paredes, estructura).
   * CSS es la pintura, decoración, y diseño de la casa.
   * Mantenerlos separados hace que el código sea limpio y reutilizable.
 
-### 2. Vinculando HTML y CSS (3 minutos)
+### 2. Vinculando HTML y CSS
 * **Acción:** Crear un archivo `styles.css` en vivo al lado de `index.html`.
 * **Acción en HTML:** Agregar la etiqueta `<link>` en el `<head>`.
   ```html
@@ -21,7 +21,7 @@ Este documento sirve como guía/guión para el profesor durante la demostración
   * El atributo `rel="stylesheet"` le dice al navegador qué tipo de recurso enlazamos.
   * El atributo `href` indica la ruta relativa al archivo CSS.
 
-### 3. Sintaxis y Selectores Básicos (5 minutos)
+### 3. Sintaxis y Selectores Básicos
 * **Acción:** Escribir reglas en `styles.css` demostrando la sintaxis: `selector { propiedad: valor; }`.
 * **Demostración de Selectores:**
   1. **Selector de Etiqueta (Tag selector):**
@@ -38,7 +38,7 @@ Este documento sirve como guía/guión para el profesor durante la demostración
 
 ---
 
-## Código Guía para el Instructor (Copiar y pegar rápido)
+## Código Guía para el Instructor
 ```css
 /*styles.css*/
 h1 {
