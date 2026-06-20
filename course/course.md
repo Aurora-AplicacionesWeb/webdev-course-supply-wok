@@ -71,7 +71,7 @@
 * **Errores:** Olvidar cerrar etiquetas, fallar en la ruta de las imágenes, escribir CSS sin vincular el archivo.
 * **Buenas prácticas:** Escribir siempre en minúsculas (archivos y etiquetas), indentar el código para que sea legible, usar nombres descriptivos.
 * **Cierre:** Dónde seguir aprendiendo (MDN Web Docs) y motivación final.
-* **Enlaces:** [HTML/CSS Playground (JSFiddle)](https://jsfiddle.net/) | [Material de la Clase](starter-files/lesson-8-starter.md) ([Completado](completed-examples/lesson-8-completed.md), [Scripts](scripts/lesson-8-scripts.md))
+* **Enlaces:** [PPT]([https://jsfiddle.net/](https://upcedupe-my.sharepoint.com/:p:/g/personal/u202312566_upc_edu_pe/IQD6oIGcPkyTSKvCmTsP9v1xAdodIdTi6nT5RsUu9koHj4I?e=MZTLnT)) | [Material de la Clase](starter-files/lesson-8-starter.md) ([Completado](completed-examples/lesson-8-completed.md), [Scripts](scripts/lesson-8-scripts.md))
 * **Clase:** [Clase n°8](https://www.youtube.com/watch?v=cbGhBA6oFV0)
 
 ---
